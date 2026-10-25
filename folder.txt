@@ -1,0 +1,7 @@
+AI-Career-Copilot/
+├── backend/
+├── frontend/
+├── database/
+├── uploads/
+├── docs/
+└── README.md
